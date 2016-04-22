@@ -1,0 +1,1 @@
+A tutorial for integrating Spring 3 MVC and Hibernate 3 Annotations
